@@ -6,7 +6,7 @@ const Navigation = () => {
   return(
     <div className="bg-gray-900">
       <div className="flex justify-between w-10/12 mx-auto items-center py-3">
-        <div className="rounded-full flex justify-center items-center ring-1 p-1 text-green-500">
+        <div className="rounded-full flex justify-center items-center ring-1 px-[.4rem] py-[.3rem] text-green-500">
           AK
         </div>
         <div>
