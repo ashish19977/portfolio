@@ -3,6 +3,7 @@ const webpack = require('webpack')
 const HtmlWebpackPlugin = require("html-webpack-plugin")
 const miniCSSExtractPlugin = require('mini-css-extract-plugin')
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin')
+const path = require('path')
 
 // eslint-disable-next-line no-unused-vars
 const { NODE_ENV = 'development', PORT = 3000 } = process.env
@@ -12,6 +13,7 @@ const commonConfig = {
         main: './src',
     },
     output: {
+        path: path.resolve(__dirname, 'build'),
         filename: '[name].js',
     },
 }
@@ -59,9 +61,6 @@ const devConfig = {
         devMiddleware: {
             writeToDisk: true,
         }
-    },
-    performance: {
-        hints: "warning"
     },      
     resolve: {
         extensions: ['.js', '.jsx'],

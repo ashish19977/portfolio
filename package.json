@@ -6,10 +6,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "browserify-fs": "^1.0.0",
     "emailjs-com": "^2.6.4",
-    "fs": "^0.0.1-security",
-    "path-browserify": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-lazy-load-image-component": "^1.5.1",
@@ -19,8 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "dev": "rm -rf dist && NODE_ENV=dev webpack-dev-server",
-    "start": "rm -rf dist && NODE_ENV=prod webpack-dev-server",
+    "start": "rm -rf dist && NODE_ENV=dev webpack-dev-server",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -45,7 +41,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.12",
-    "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^4.2.2",
     "html-webpack-plugin": "^5.5.0",
