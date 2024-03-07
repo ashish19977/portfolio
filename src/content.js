@@ -28,15 +28,15 @@ export const content = {
   ],
   projects:[
 {
- name: 'Todo Django',
- techUsed:['Python', 'Django', 'Html', 'Css'],
+ name: 'Paint App',
+ techUsed:['JS', 'Html', 'Css'],
 
  keyPoints:[
-        'A todo app built in django for creating todos.',
-        'User creates account and can add, update and delete his todos.'
+        'A canvas app developed to draw and download any quick drawing.',
+        'Supports both mobile and web.'
       ],
-      date: '03/2022 - 03/2022',
-      link: 'http://djngo2do.herokuapp.com',
+      date: '08/2022 - 03/2024',
+      link: 'https://savepaint.netlify.app',
 },
     {
       name: 'Job Listing',
