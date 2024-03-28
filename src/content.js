@@ -36,7 +36,7 @@ export const content = {
         'Supports both mobile and web.'
       ],
       date: '08/2022 - 03/2024',
-      link: 'https://ashish1997-savepaint.netlify.app',
+      link: 'https://ashish19977-paint.netlify.app',
 },
     {
       name: 'Job Listing',
