@@ -92,13 +92,14 @@ export const content = {
       date: '09/2020 - 10/2020'
     },
     {
-      name: 'Youtube Clone',
-      techUsed:['JS', 'React', 'Html', 'Css'],
+      name: 'Calendar',
+      techUsed:['React', 'JS', 'Html', 'Css'],
       keyPoints:[
         'React is used for front-end for this project',
-        'We fetch videos from youtube API. And show them in embeded player',
-        'Options to search, comment and like-dislike on a video.'
+        'We display in dates of current month along with the todos for selected date.',
+        'Options to Add notes, Edit notes, check past todos.'
       ],
+      link: 'https://ashish1997-calendar.netlify.app',
       date: '04/2020 - 05/2020'
     },
   ],
