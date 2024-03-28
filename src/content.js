@@ -97,7 +97,7 @@ export const content = {
       keyPoints:[
         'React is used for front-end for this project',
         'We display the dates of current month along with the todos for selected date.',
-        'Options to Add notes, Edit notes, check past todos.'
+        'Options to Add todo, edit todo, check past todos. Also user can set themes for app.'
       ],
       link: 'https://ashish1997-calendar.netlify.app',
       date: '04/2020 - 05/2020'
