@@ -96,7 +96,7 @@ export const content = {
       techUsed:['React', 'JS', 'Html', 'Css'],
       keyPoints:[
         'React is used for front-end for this project',
-        'We display in dates of current month along with the todos for selected date.',
+        'We display the dates of current month along with the todos for selected date.',
         'Options to Add notes, Edit notes, check past todos.'
       ],
       link: 'https://ashish1997-calendar.netlify.app',
