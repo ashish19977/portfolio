@@ -36,7 +36,7 @@ export const content = {
         'Supports both mobile and web.'
       ],
       date: '08/2022 - 03/2024',
-      link: 'https://savepaint.netlify.app',
+      link: 'https://ashish1997-savepaint.netlify.app',
 },
     {
       name: 'Job Listing',
@@ -77,7 +77,7 @@ export const content = {
         'Anyone having name of the room can join room and chat.',
         'Options to share images and live location in room.'
       ],
-      link: 'https://chatinstants.herokuapp.com',
+      link: 'https://ashish1997-chat.netlify.app',
       date: '09/2020 - 10/2020'
     },
     {
