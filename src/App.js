@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="font-mono">
       <Home/>
-    {a && <div>Test rabbit</div>}
+    {a && <div>Test rabbitt</div>}
     </div>
   );
 }
