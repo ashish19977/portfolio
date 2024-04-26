@@ -77,7 +77,7 @@ export const content = {
         'Anyone having name of the room can join room and chat.',
         'Options to share images and live location in room.'
       ],
-      link: 'https://ashish1997-chat.netlify.app',
+      link: 'https://instant-chats-with-black-theme.onrender.com',
       date: '09/2020 - 10/2020'
     },
     {
