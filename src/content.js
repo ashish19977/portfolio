@@ -119,7 +119,8 @@ export const content = {
     'Django': '#0b5345',
   },
   work:[
-    { date: 'Current - ', isCurrent: true, postion: 'Software Engineer', company: 'Velotio', link:'https://www.velotio.com' },    
+    { date: 'Current - ', isCurrent: true, postion: 'Software Engineer', company: 'Siemens - Mendix', link:'https://www.mendix.com' }, 
+    { date: '07/22 - 09/25', postion: 'Software Engineer', company: 'Velotio', link:'https://www.velotio.com' },    
     { date: '08/21 - 07/22', postion: 'Software Developer', company: 'Gaana.com', link:'https://gaana.com' },    
     { date: '10/20 - 7/21', isCurrent: false, postion: 'Software Associate', company: 'Phablecare', link:'https://www.phablecare.com/' },
     { date: '07/20 - 10/20', isCurrent: false, postion: 'Intern', company: 'Phablecare', link:'https://www.phablecare.com/' },
